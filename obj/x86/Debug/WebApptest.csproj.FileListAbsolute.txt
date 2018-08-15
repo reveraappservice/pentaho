@@ -1,0 +1,2 @@
+C:\Share\obj\x86\Debug\WebApptest.csprojAssemblyReference.cache
+C:\Share\obj\x86\Debug\WebApptest.csproj.CoreCompileInputs.cache
